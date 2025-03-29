@@ -1,0 +1,9 @@
+responses:
+  utter_generative_ai:
+    - text: "Generative AI refers to artificial intelligence that can generate new content, such as text, images, or music, based on the data it has been trained on."
+
+  utter_gpt3:
+    - text: "GPT-3, or Generative Pre-trained Transformer 3, is a state-of-the-art language model developed by OpenAI that can generate human-like text based on a given prompt."
+
+  utter_gans:
+    - text: "GANs, or Generative Adversarial Networks, are a class of AI models that consist of two neural networks, a generator and a discriminator, that work together to create realistic synthetic data."

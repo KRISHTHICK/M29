@@ -1,0 +1,15 @@
+stories:
+- story: generative_ai_story
+  steps:
+  - intent: ask_about_generative_ai
+  - action: utter_generative_ai
+
+- story: gpt3_story
+  steps:
+  - intent: ask_about_gpt3
+  - action: utter_gpt3
+
+- story: gans_story
+  steps:
+  - intent: ask_about_gans
+  - action: utter_gans

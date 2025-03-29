@@ -1,0 +1,18 @@
+nlu:
+- intent: ask_about_generative_ai
+  examples: |
+    - Tell me about Generative AI
+    - What is Generative AI?
+    - Explain Generative AI
+
+- intent: ask_about_gpt3
+  examples: |
+    - What is GPT-3?
+    - Tell me about GPT-3
+    - Explain GPT-3
+
+- intent: ask_about_gans
+  examples: |
+    - What are GANs?
+    - Explain GANs
+    - Tell me about GANs
